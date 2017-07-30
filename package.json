@@ -1,0 +1,27 @@
+{
+  "name": "soundcloud-feed-information",
+  "version": "1.0.0",
+  "description": "Generate feed basic information based on SoundCloud feed url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devnaestrada/soundcloud-feed-information.git"
+  },
+  "keywords": [
+    "soundcloud",
+    "feed"
+  ],
+  "author": "femontanha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devnaestrada/soundcloud-feed-information/issues"
+  },
+  "homepage": "https://github.com/devnaestrada/soundcloud-feed-information#readme",
+  "dependencies": {
+    "feedparser": "^2.2.1",
+    "request": "^2.81.0"
+  }
+}
