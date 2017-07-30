@@ -4,7 +4,7 @@
   "description": "Generate feed basic information based on SoundCloud feed url",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
