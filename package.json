@@ -22,6 +22,7 @@
   "homepage": "https://github.com/devnaestrada/soundcloud-feed-information#readme",
   "dependencies": {
     "feedparser": "^2.2.1",
+    "inquirer": "^3.2.1",
     "request": "^2.81.0"
   }
 }
